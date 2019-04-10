@@ -1,5 +1,11 @@
 ifdef::env-github[:outfilesuffix: .adoc]
 
+
+Forked from https://github.com/ocraft/ocraft-s2client
+
+Playground to get a SC2 Bot working. Looking forward to incooperate Java as a learning method.
+
+
 [[ocraft]]
 = Ocraft S2Client
 
